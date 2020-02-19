@@ -21,7 +21,7 @@
     ],
     "dependencies": {
         "cfenv": ">1.0.0",
-        "redis": >0.12.1",
+        "redis": ">0.12.1",
         "mongodb": ">1.4.30",
         "express": ">3.17.2",
         "when": ">3.7.2",
